@@ -60,19 +60,19 @@ def fetch_ranking_data(rid=0, ranking_type='all'):
                 return []
 
 # 生成美观的Markdown表格
-def generate_markdown_table(ranking_data, title):
+def generate_markdown_table(ranking_data, section_title):
     """
     将排行榜数据转换为美观的Markdown表格
     
     参数:
         ranking_data: 排行榜数据列表
-        title: 表格标题
+        section_title: 表格标题
     
     返回:
         Markdown格式的表格字符串
     """
     if not ranking_data:
-        return f"## {title}\n\n*暂无数据*\n\n"
+        return f"## {section_title}\n\n*暂无数据*\n\n"
     
     # 提取需要的字段
     table_data = []
@@ -85,13 +85,13 @@ def generate_markdown_table(ranking_data, title):
             
             # 构建数据行
             # 处理标题中的竖线符号，避免在Markdown表格中被误解为列分隔符
-            title = item.get("title", "未知")
-            title = title.replace("|", "｜")  # 将竖线替换为全角竖线
+            video_title = item.get("title", "未知")
+            video_title = video_title.replace("|", "｜")  # 将竖线替换为全角竖线
             
             row_data = {
                 "排名": i + 1,
                 "缩略图": f"![缩略图]({pic})" if pic else "无图片",
-                "标题": title,
+                "标题": video_title,
                 "UP主": owner.get("name", "未知") if owner else "未知",
                 "播放量": format_number(stat.get("view", 0)) if stat else "0",
                 "弹幕数": format_number(stat.get("danmaku", 0)) if stat else "0",
@@ -118,7 +118,7 @@ def generate_markdown_table(ranking_data, title):
     df = pd.DataFrame(table_data)
     
     # 生成Markdown表格
-    markdown_table = f"## {title}\n\n"
+    markdown_table = f"## {section_title}\n\n"
     markdown_table += df.to_markdown(index=False) + "\n\n"
     
     return markdown_table
@@ -182,7 +182,7 @@ def generate_readme():
     markdown_content += "*此文件由 GitHub Action 自动生成*\n"
     
     # 写入README.md文件
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open("../../README.md", "w", encoding="utf-8") as f:
         f.write(markdown_content)
     
     print("README.md 文件已更新")
