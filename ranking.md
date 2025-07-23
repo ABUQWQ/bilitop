@@ -53,7 +53,30 @@
 | ……  | obj  | ……              | ……   |
 | 99  | obj  | 排行榜第100名    |      |
 
-`data`列表中的对象：
+`list`列表中的对象：
 
-可参考[获取视频详细信息（web端）](../video/info.md#获取视频详细信息（web端）)中的data对象。本API对象中所有字段，均可在链接对象中找到。
+每个视频对象包含以下主要字段：
+
+| 字段 | 类型 | 内容 | 备注 |
+| --- | --- | --- | --- |
+| aid | num | 稿件avid | |
+| bvid | str | 稿件bvid | |
+| cid | num | 视频cid | |
+| title | str | 稿件标题 | |
+| desc | str | 稿件简介 | |
+| pic | str | 稿件封面图片url | |
+| owner | obj | 稿件UP主信息 | |
+| stat | obj | 稿件数据 | |
+| duration | num | 稿件总时长(所有分P) | 单位为秒 |
+| pubdate | num | 稿件发布时间 | 时间戳 |
+| rights | obj | 稿件属性标志 | |
+
+更多详细字段信息可参考[获取视频详细信息（web端）](../video/info.md#获取视频详细信息（web端）)中的data对象。
+
+**示例：**
+
+获取原创排行榜：
+```
+GET https://api.bilibili.com/x/web-interface/ranking/v2?type=origin
+```
 
