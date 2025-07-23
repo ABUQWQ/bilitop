@@ -1,0 +1,36 @@
+name: Update Bilibili Ranking
+
+on:
+  schedule:
+    # 每天的北京时间8点和20点运行（UTC时间为0点和12点）
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允许手动触发工作流
+
+jobs:
+  update-ranking:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas tabulate
+
+      - name: Fetch ranking data and update README
+        run: |
+          python .github/scripts/update_ranking.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update ranking data: $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
