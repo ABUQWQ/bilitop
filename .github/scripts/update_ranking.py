@@ -9,12 +9,11 @@ from datetime import datetime
 
 # 获取排行榜数据的函数
 def fetch_ranking_data(rid=0, ranking_type='all'):
-    """
-    获取B站视频排行榜数据
+    """获取B站视频排行榜数据
     
     参数:
         rid: 分区ID，默认为0（全站）
-        ranking_type: 排行榜类型，可选值：all（全部）, rokkie（新人）, origin（原创）
+        ranking_type: 排行榜类型，可选值：all（全部）, rookie（新人）, origin（原创）
     
     返回:
         排行榜数据列表
@@ -63,17 +62,37 @@ def generate_markdown_table(ranking_data, title):
     table_data = []
     for i, item in enumerate(ranking_data[:20]):  # 只取前20条数据
         try:
-            table_data.append({
+            # 确保所有必要的字段都存在，使用更安全的方式获取嵌套数据
+            owner = item.get("owner", {})
+            stat = item.get("stat", {})
+            pic = item.get("pic", "")
+            
+            # 构建数据行
+            row_data = {
                 "排名": i + 1,
+                "缩略图": f"![缩略图]({pic})" if pic else "无图片",
                 "标题": item.get("title", "未知"),
-                "UP主": item.get("owner", {}).get("name", "未知"),
-                "播放量": format_number(item.get("stat", {}).get("view", 0)),
-                "弹幕数": format_number(item.get("stat", {}).get("danmaku", 0)),
+                "UP主": owner.get("name", "未知") if owner else "未知",
+                "播放量": format_number(stat.get("view", 0)) if stat else "0",
+                "弹幕数": format_number(stat.get("danmaku", 0)) if stat else "0",
                 "发布时间": format_timestamp(item.get("pubdate", 0)),
                 "视频链接": f"https://www.bilibili.com/video/{item.get('bvid', '')}"
-            })
+            }
+            
+            table_data.append(row_data)
         except Exception as e:
-            print(f"处理数据时出错: {e}")
+            print(f"处理数据时出错 (排名 {i+1}): {e}")
+            # 添加一个占位行，确保排名连续
+            table_data.append({
+                "排名": i + 1,
+                "缩略图": "无图片",
+                "标题": "[数据处理错误]",
+                "UP主": "未知",
+                "播放量": "0",
+                "弹幕数": "0",
+                "发布时间": "未知",
+                "视频链接": ""
+            })
     
     # 转换为DataFrame以便格式化
     df = pd.DataFrame(table_data)
@@ -125,6 +144,9 @@ def generate_readme():
     origin_ranking = fetch_ranking_data(rid=0, ranking_type='origin')
     rookie_ranking = fetch_ranking_data(rid=0, ranking_type='rookie')
     
+    # 添加动画区排行榜
+    anime_ranking = fetch_ranking_data(rid=1, ranking_type='all')
+    
     # 生成当前时间
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
@@ -133,6 +155,7 @@ def generate_readme():
     markdown_content += generate_markdown_table(all_ranking, "全站排行榜")
     markdown_content += generate_markdown_table(origin_ranking, "原创排行榜")
     markdown_content += generate_markdown_table(rookie_ranking, "新人排行榜")
+    markdown_content += generate_markdown_table(anime_ranking, "动画区排行榜")
     
     # 添加页脚
     markdown_content += "\n---\n\n*数据来源: [Bilibili API](https://api.bilibili.com/x/web-interface/ranking/v2)*\n"
