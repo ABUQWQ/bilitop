@@ -29,19 +29,35 @@ def fetch_ranking_data(rid=0, ranking_type='all'):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     
-    try:
-        response = requests.get(url, params=params, headers=headers)
-        response.raise_for_status()  # 检查请求是否成功
-        data = response.json()
-        
-        if data["code"] == 0 and "data" in data and "list" in data["data"]:
-            return data["data"]["list"]
-        else:
-            print(f"获取排行榜失败: {data['message']}")
-            return []
-    except Exception as e:
-        print(f"请求异常: {e}")
-        return []
+    # 添加重试机制
+    max_retries = 3
+    retry_count = 0
+    
+    while retry_count < max_retries:
+        try:
+            response = requests.get(url, params=params, headers=headers)
+            response.raise_for_status()  # 检查请求是否成功
+            data = response.json()
+            
+            if data["code"] == 0 and "data" in data and "list" in data["data"]:
+                return data["data"]["list"]
+            else:
+                error_msg = data.get('message', f"错误码: {data['code']}")
+                print(f"获取排行榜失败: {error_msg}")
+                retry_count += 1
+                if retry_count < max_retries:
+                    print(f"正在进行第{retry_count}次重试...")
+                    time.sleep(2)  # 等待2秒后重试
+                else:
+                    return []
+        except Exception as e:
+            print(f"请求异常: {e}")
+            retry_count += 1
+            if retry_count < max_retries:
+                print(f"正在进行第{retry_count}次重试...")
+                time.sleep(2)  # 等待2秒后重试
+            else:
+                return []
 
 # 生成美观的Markdown表格
 def generate_markdown_table(ranking_data, title):
@@ -68,10 +84,14 @@ def generate_markdown_table(ranking_data, title):
             pic = item.get("pic", "")
             
             # 构建数据行
+            # 处理标题中的竖线符号，避免在Markdown表格中被误解为列分隔符
+            title = item.get("title", "未知")
+            title = title.replace("|", "｜")  # 将竖线替换为全角竖线
+            
             row_data = {
                 "排名": i + 1,
                 "缩略图": f"![缩略图]({pic})" if pic else "无图片",
-                "标题": item.get("title", "未知"),
+                "标题": title,
                 "UP主": owner.get("name", "未知") if owner else "未知",
                 "播放量": format_number(stat.get("view", 0)) if stat else "0",
                 "弹幕数": format_number(stat.get("danmaku", 0)) if stat else "0",
@@ -86,7 +106,7 @@ def generate_markdown_table(ranking_data, title):
             table_data.append({
                 "排名": i + 1,
                 "缩略图": "无图片",
-                "标题": "[数据处理错误]",
+                "标题": "[数据处理错误]",  # 这里不需要处理竖线，因为是固定文本
                 "UP主": "未知",
                 "播放量": "0",
                 "弹幕数": "0",
