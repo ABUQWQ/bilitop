@@ -1,31 +1,31 @@
 # B站视频排行榜
 
-更新时间: 2025-07-23 00:37:21
+更新时间: 2025-07-23 00:42:56
 
 ## 全站排行榜
 
 |   排名 | 标题                                            | UP主         | 播放量    | 弹幕数   | 发布时间       | 视频链接                                        |
 |-----:|:----------------------------------------------|:------------|:-------|:------|:-----------|:--------------------------------------------|
-|    1 | （高燃）埼玉训练1000天挑战终局之战，第1000天                    | 堂主lee       | 534.2万 | 15.7万 | 2025-07-21 | https://www.bilibili.com/video/BV1Vjgzz3EgU |
-|    2 | 《原神》空月之歌PV——「月夜的叙事诗」                          | 原神          | 497.7万 | 21.4万 | 2025-07-22 | https://www.bilibili.com/video/BV1v1gGzqEVP |
-|    3 | 【mc建筑】方块发光？其实是色彩碰撞的艺术！耗时216000秒，仅凭一人建造梦幻星云水母。 | ALPHA-FISH  | 514.1万 | 5,711 | 2025-07-20 | https://www.bilibili.com/video/BV1TQgbzqEBS |
-|    4 | 你可能不认识我，但你一定听过我的歌                             | 麦振鸿         | 296.7万 | 3.0万  | 2025-07-19 | https://www.bilibili.com/video/BV1n1udzaE4v |
-|    5 | Yasal的自我介绍!                                   | Yasal_170   | 274.0万 | 1.7万  | 2025-07-20 | https://www.bilibili.com/video/BV1GcghzJEjQ |
-|    6 | 极致抽象的画面演绎着极尽现实的故事                             | 原野郎中        | 427.7万 | 3.2万  | 2025-07-19 | https://www.bilibili.com/video/BV1vUu9zQEU8 |
-|    7 | 在苏联吃罐头有什么后果？【神奇组织33】                          | 小约翰可汗       | 283.7万 | 2.5万  | 2025-07-21 | https://www.bilibili.com/video/BV1cbghzcETw |
-|    8 | Saber：该出骑兵了！！【星铁整活】                           | 罐罐小狗        | 280.7万 | 5.8万  | 2025-07-19 | https://www.bilibili.com/video/BV1WvudzuEK5 |
-|    9 | 演员的蛋生（4）                                      | 杜海皇         | 186.8万 | 2.9万  | 2025-07-21 | https://www.bilibili.com/video/BV1g6gLzqEd2 |
-|   10 | 【MrBeast首发】能在私人飞机上生存100天就把它送你                 | MrBeast官方账号 | 330.8万 | 1.1万  | 2025-07-20 | https://www.bilibili.com/video/BV14huZzSEaG |
-|   11 | 我 把 0 分 完 蛋 填 空 翻 译 成 了 中 文 ！                 | 天狼学友        | 395.6万 | 2,528 | 2025-07-19 | https://www.bilibili.com/video/BV1F4uozeEad |
-|   12 | 《明日方舟》2025「音律联觉-熠曲丰碑」官方录播                     | 明日方舟        | 85.7万  | 2.6万  | 2025-07-21 | https://www.bilibili.com/video/BV1dwg5zCEBD |
-|   13 | 残暴恐龙血洗商场？我：喜欢我的秒开仙人吗？                         | 瓜锟          | 241.4万 | 2,369 | 2025-07-19 | https://www.bilibili.com/video/BV1pzudzqEUu |
-|   14 | 痛觉循环：人类感官的终极叙事权                               | 大圆镜科普       | 220.0万 | 2,241 | 2025-07-19 | https://www.bilibili.com/video/BV1Pgg4zoEMv |
-|   15 | 1元vs 10万元！！在中国请客吃饭，有多大区别？                     | Meetfood觅食  | 407.9万 | 3,673 | 2025-07-19 | https://www.bilibili.com/video/BV1RjguzfEn3 |
-|   16 | 上海规则怪谈不让你喝，你喝不喝？                              | 快乐阿依        | 230.8万 | 1,231 | 2025-07-20 | https://www.bilibili.com/video/BV1pjgbzhEPM |
-|   17 | 《神威老爹》1-3合集 你成为无上魔帝的第一件事，就是隐姓埋名取了如烟大帝         | 小坤动漫i       | 443.5万 | 27    | 2025-07-20 | https://www.bilibili.com/video/BV1nrudzNEyG |
-|   18 | 《有锅气の一顿饭》                                     | 伤心欲茄222     | 273.7万 | 1,509 | 2025-07-20 | https://www.bilibili.com/video/BV1QkuozWEBF |
-|   19 | 那些年买过的宿舍小零食！                                  | 谭井同学        | 473.5万 | 92    | 2025-07-20 | https://www.bilibili.com/video/BV1XSgczPEKG |
-|   20 | 给一个MC玩家4年时间，能创造百亿方块的世界！？                      | Apple苹果酱喔   | 548.9万 | 7.1万  | 2025-07-18 | https://www.bilibili.com/video/BV1EGg3zgEHa |
+|    1 | （高燃）埼玉训练1000天挑战终局之战，第1000天                    | 堂主lee       | 534.7万 | 15.8万 | 2025-07-21 | https://www.bilibili.com/video/BV1Vjgzz3EgU |
+|    2 | 《原神》空月之歌PV——「月夜的叙事诗」                          | 原神          | 498.4万 | 21.5万 | 2025-07-22 | https://www.bilibili.com/video/BV1v1gGzqEVP |
+|    3 | 【mc建筑】方块发光？其实是色彩碰撞的艺术！耗时216000秒，仅凭一人建造梦幻星云水母。 | ALPHA-FISH  | 514.5万 | 5,713 | 2025-07-20 | https://www.bilibili.com/video/BV1TQgbzqEBS |
+|    4 | 你可能不认识我，但你一定听过我的歌                             | 麦振鸿         | 296.9万 | 3.0万  | 2025-07-19 | https://www.bilibili.com/video/BV1n1udzaE4v |
+|    5 | Yasal的自我介绍!                                   | Yasal_170   | 274.1万 | 1.7万  | 2025-07-20 | https://www.bilibili.com/video/BV1GcghzJEjQ |
+|    6 | 极致抽象的画面演绎着极尽现实的故事                             | 原野郎中        | 427.9万 | 3.2万  | 2025-07-19 | https://www.bilibili.com/video/BV1vUu9zQEU8 |
+|    7 | 在苏联吃罐头有什么后果？【神奇组织33】                          | 小约翰可汗       | 283.9万 | 2.5万  | 2025-07-21 | https://www.bilibili.com/video/BV1cbghzcETw |
+|    8 | Saber：该出骑兵了！！【星铁整活】                           | 罐罐小狗        | 280.8万 | 5.8万  | 2025-07-19 | https://www.bilibili.com/video/BV1WvudzuEK5 |
+|    9 | 演员的蛋生（4）                                      | 杜海皇         | 187.0万 | 2.9万  | 2025-07-21 | https://www.bilibili.com/video/BV1g6gLzqEd2 |
+|   10 | 【MrBeast首发】能在私人飞机上生存100天就把它送你                 | MrBeast官方账号 | 330.9万 | 1.1万  | 2025-07-20 | https://www.bilibili.com/video/BV14huZzSEaG |
+|   11 | 我 把 0 分 完 蛋 填 空 翻 译 成 了 中 文 ！                 | 天狼学友        | 395.8万 | 2,529 | 2025-07-19 | https://www.bilibili.com/video/BV1F4uozeEad |
+|   12 | 《明日方舟》2025「音律联觉-熠曲丰碑」官方录播                     | 明日方舟        | 85.8万  | 2.6万  | 2025-07-21 | https://www.bilibili.com/video/BV1dwg5zCEBD |
+|   13 | 残暴恐龙血洗商场？我：喜欢我的秒开仙人吗？                         | 瓜锟          | 241.6万 | 2,369 | 2025-07-19 | https://www.bilibili.com/video/BV1pzudzqEUu |
+|   14 | 痛觉循环：人类感官的终极叙事权                               | 大圆镜科普       | 220.1万 | 2,246 | 2025-07-19 | https://www.bilibili.com/video/BV1Pgg4zoEMv |
+|   15 | 1元vs 10万元！！在中国请客吃饭，有多大区别？                     | Meetfood觅食  | 408.0万 | 3,673 | 2025-07-19 | https://www.bilibili.com/video/BV1RjguzfEn3 |
+|   16 | 上海规则怪谈不让你喝，你喝不喝？                              | 快乐阿依        | 231.0万 | 1,231 | 2025-07-20 | https://www.bilibili.com/video/BV1pjgbzhEPM |
+|   17 | 《神威老爹》1-3合集 你成为无上魔帝的第一件事，就是隐姓埋名取了如烟大帝         | 小坤动漫i       | 444.0万 | 27    | 2025-07-20 | https://www.bilibili.com/video/BV1nrudzNEyG |
+|   18 | 《有锅气の一顿饭》                                     | 伤心欲茄222     | 273.8万 | 1,509 | 2025-07-20 | https://www.bilibili.com/video/BV1QkuozWEBF |
+|   19 | 那些年买过的宿舍小零食！                                  | 谭井同学        | 473.7万 | 92    | 2025-07-20 | https://www.bilibili.com/video/BV1XSgczPEKG |
+|   20 | 给一个MC玩家4年时间，能创造百亿方块的世界！？                      | Apple苹果酱喔   | 549.1万 | 7.1万  | 2025-07-18 | https://www.bilibili.com/video/BV1EGg3zgEHa |
 
 ## 原创排行榜
 
