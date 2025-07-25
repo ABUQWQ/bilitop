@@ -135,15 +135,21 @@ def generate_markdown_table(ranking_data, section_title):
             video_title = video_title.replace("\n", " ")  # 替换换行符
             video_title = video_title.replace("\r", " ")  # 替换回车符
             
+            # 构建带链接的标题（Markdown格式）
+            bvid = item.get('bvid', '')
+            if bvid:
+                linked_title = f"[{video_title}](https://www.bilibili.com/video/{bvid})"
+            else:
+                linked_title = video_title
+            
             row_data = {
                 "排名": i + 1,
                 "缩略图": f"![缩略图]({pic})" if pic else "无图片",
-                "标题": video_title,
+                "标题": linked_title,
                 "UP主": owner.get("name", "未知") if owner else "未知",
                 "播放量": format_number(stat.get("view", 0)) if stat else "0",
                 "弹幕数": format_number(stat.get("danmaku", 0)) if stat else "0",
-                "发布时间": format_timestamp(item.get("pubdate", 0)),
-                "视频链接": f"https://www.bilibili.com/video/{item.get('bvid', '')}"
+                "发布时间": format_timestamp(item.get("pubdate", 0))
             }
             
             table_data.append(row_data)
@@ -157,8 +163,7 @@ def generate_markdown_table(ranking_data, section_title):
                 "UP主": "未知",
                 "播放量": "0",
                 "弹幕数": "0",
-                "发布时间": "未知",
-                "视频链接": ""
+                "发布时间": "未知"
             })
     
     # 转换为DataFrame以便格式化
@@ -166,6 +171,7 @@ def generate_markdown_table(ranking_data, section_title):
     
     # 生成Markdown表格
     markdown_table = f"## {section_title}\n\n"
+    markdown_table += "*点击标题可直接跳转到对应视频*\n\n"
     markdown_table += df.to_markdown(index=False) + "\n\n"
     
     return markdown_table
@@ -218,6 +224,8 @@ def generate_readme():
     print("正在获取排行榜数据...")
     all_ranking = fetch_ranking_data(rid=0, ranking_type='all')
     origin_ranking = fetch_ranking_data(rid=0, ranking_type='origin')
+    anime_ranking = fetch_ranking_data(rid=1, ranking_type='all')  # 动画分区
+    digital_ranking = fetch_ranking_data(rid=188, ranking_type='all')  # 数码分区
     rookie_ranking = fetch_ranking_data(rid=0, ranking_type='rookie')
     
     # 生成当前时间
@@ -226,29 +234,29 @@ def generate_readme():
     # 组合Markdown内容
     markdown_content = f"# B站视频排行榜\n\n更新时间: {current_time}\n\n"
     
-    # 检查数据是否获取成功，使用合理的标题
+    # 使用固定的分区标题，不再用视频标题替换
     if all_ranking:
-        first_title = all_ranking[0].get('title', '全站排行榜')
-        # 截取标题，避免过长
-        if len(first_title) > 30:
-            first_title = first_title[:30] + "..."
-        markdown_content += generate_markdown_table(all_ranking, first_title)
+        markdown_content += generate_markdown_table(all_ranking, "全站排行榜")
     else:
         markdown_content += generate_markdown_table([], "全站排行榜（数据获取失败）")
     
     if origin_ranking:
-        first_title = origin_ranking[0].get('title', '原创排行榜')
-        if len(first_title) > 30:
-            first_title = first_title[:30] + "..."
-        markdown_content += generate_markdown_table(origin_ranking, first_title)
+        markdown_content += generate_markdown_table(origin_ranking, "原创排行榜")
     else:
         markdown_content += generate_markdown_table([], "原创排行榜（数据获取失败）")
     
+    if anime_ranking:
+        markdown_content += generate_markdown_table(anime_ranking, "动画排行榜")
+    else:
+        markdown_content += generate_markdown_table([], "动画排行榜（数据获取失败）")
+    
+    if digital_ranking:
+        markdown_content += generate_markdown_table(digital_ranking, "数码排行榜")
+    else:
+        markdown_content += generate_markdown_table([], "数码排行榜（数据获取失败）")
+    
     if rookie_ranking:
-        first_title = rookie_ranking[0].get('title', '新人排行榜')
-        if len(first_title) > 30:
-            first_title = first_title[:30] + "..."
-        markdown_content += generate_markdown_table(rookie_ranking, first_title)
+        markdown_content += generate_markdown_table(rookie_ranking, "新人排行榜")
     else:
         markdown_content += generate_markdown_table([], "新人排行榜（数据获取失败）")
     
