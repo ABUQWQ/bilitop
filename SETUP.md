@@ -37,14 +37,28 @@ schedule:
 
 ### 修改排行榜分区
 
-默认情况下，脚本获取全站排行榜。如果你想获取特定分区的排行榜，可以修改`.github/scripts/update_ranking.py`文件中的`rid`参数：
+默认情况下，脚本获取全站排行榜、原创排行榜和新人排行榜。如果你想获取特定分区的排行榜，可以修改`.github/scripts/update_ranking.py`文件中的`generate_readme()`函数：
 
 ```python
 # 获取不同类型的排行榜数据
 all_ranking = fetch_ranking_data(rid=0, ranking_type='all')  # rid=0表示全站
+origin_ranking = fetch_ranking_data(rid=0, ranking_type='origin')  # 原创
+rookie_ranking = fetch_ranking_data(rid=0, ranking_type='rookie')  # 新人
+
+# 如果要获取特定分区，可以修改rid参数，例如：
+# anime_ranking = fetch_ranking_data(rid=1, ranking_type='all')  # 动画区
 ```
 
-可用的分区ID可以参考B站API文档或者ranking.md文件中的说明。
+常用的分区ID：
+- 0: 全站
+- 1: 动画
+- 3: 音乐
+- 4: 游戏
+- 5: 娱乐
+- 36: 科技
+- 188: 数码
+
+更多分区ID可以参考ranking.md文件中的说明。
 
 ## 故障排除
 
