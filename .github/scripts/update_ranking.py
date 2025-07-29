@@ -278,7 +278,7 @@ def generate_readme():
     
     # 写入README.md文件
     try:
-        with open("README.md", "w", encoding="utf-8") as f:
+        with open("../../README.md", "w", encoding="utf-8") as f:
             f.write(markdown_content)
         print("README.md 文件已成功更新")
     except Exception as e:
