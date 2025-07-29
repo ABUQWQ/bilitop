@@ -23,6 +23,7 @@ def fetch_ranking_data(rid=0, ranking_type='all'):
     params = {
         "rid": rid,
         "type": ranking_type,
+        "web_location": "333.934"
     }
     
     headers = {
@@ -48,7 +49,7 @@ def fetch_ranking_data(rid=0, ranking_type='all'):
             
             data = response.json()
             
-            if data.get("code") == 0 and "data" in data and data["data"] and "list" in data["data"]:
+            if data.get("code") == 0 and "data" in data and "list" in data["data"]:
                 ranking_list = data["data"]["list"]
                 if ranking_list:
                     print(f"成功获取 {len(ranking_list)} 条排行榜数据")
@@ -59,42 +60,53 @@ def fetch_ranking_data(rid=0, ranking_type='all'):
             else:
                 error_msg = data.get('message', f"错误码: {data.get('code', 'unknown')}")
                 print(f"API返回错误: {error_msg}")
+                print(f"完整响应数据: {data}")
                 retry_count += 1
                 if retry_count < max_retries:
-                    print(f"正在进行第{retry_count}次重试...")
-                    time.sleep(3)  # 等待3秒后重试
+                    # 使用指数退避算法，逐渐增加等待时间
+                    wait_time = 2 ** retry_count
+                    print(f"正在进行第{retry_count}次重试，等待{wait_time}秒...")
+                    time.sleep(wait_time)
                 else:
                     return []
         except requests.exceptions.Timeout:
             print("请求超时")
             retry_count += 1
             if retry_count < max_retries:
-                print(f"正在进行第{retry_count}次重试...")
-                time.sleep(3)
+                # 使用指数退避算法，逐渐增加等待时间
+                wait_time = 2 ** retry_count
+                print(f"正在进行第{retry_count}次重试，等待{wait_time}秒...")
+                time.sleep(wait_time)
             else:
                 return []
         except requests.exceptions.RequestException as e:
             print(f"网络请求异常: {e}")
             retry_count += 1
             if retry_count < max_retries:
-                print(f"正在进行第{retry_count}次重试...")
-                time.sleep(3)
+                # 使用指数退避算法，逐渐增加等待时间
+                wait_time = 2 ** retry_count
+                print(f"正在进行第{retry_count}次重试，等待{wait_time}秒...")
+                time.sleep(wait_time)
             else:
                 return []
         except json.JSONDecodeError as e:
             print(f"JSON解析错误: {e}")
             retry_count += 1
             if retry_count < max_retries:
-                print(f"正在进行第{retry_count}次重试...")
-                time.sleep(3)
+                # 使用指数退避算法，逐渐增加等待时间
+                wait_time = 2 ** retry_count
+                print(f"正在进行第{retry_count}次重试，等待{wait_time}秒...")
+                time.sleep(wait_time)
             else:
                 return []
         except Exception as e:
             print(f"未知异常: {e}")
             retry_count += 1
             if retry_count < max_retries:
-                print(f"正在进行第{retry_count}次重试...")
-                time.sleep(3)
+                # 使用指数退避算法，逐渐增加等待时间
+                wait_time = 2 ** retry_count
+                print(f"正在进行第{retry_count}次重试，等待{wait_time}秒...")
+                time.sleep(wait_time)
             else:
                 return []
     
