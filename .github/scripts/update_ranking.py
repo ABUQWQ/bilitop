@@ -6,6 +6,7 @@ import json
 import time
 import pandas as pd
 from datetime import datetime
+import os  # 导入os模块用于处理文件路径
 
 # 获取排行榜数据的函数
 def fetch_ranking_data(rid=0, ranking_type='all'):
@@ -278,9 +279,16 @@ def generate_readme():
     
     # 写入README.md文件
     try:
-        with open("../../README.md", "w", encoding="utf-8") as f:
+        # 获取脚本当前路径
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        # 构建到项目根目录的路径
+        project_root = os.path.join(script_dir, '..', '..')
+        # 构建README.md的完整路径
+        readme_path = os.path.join(project_root, 'README.md')
+        
+        with open(readme_path, "w", encoding="utf-8") as f:
             f.write(markdown_content)
-        print("README.md 文件已成功更新")
+        print(f"README.md 文件已成功更新于: {readme_path}")
     except Exception as e:
         print(f"写入README.md文件时出错: {e}")
         raise
