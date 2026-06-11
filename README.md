@@ -1,6 +1,6 @@
 # B站视频排行榜
 
-更新时间: 2026-06-10 14:46:03
+更新时间: 2026-06-11 02:14:50
 
 ## 全站排行榜
 
@@ -8,26 +8,26 @@
 
 |   排名 | 缩略图                                                                                  | 标题                                                                           | UP主        | 播放量    | 弹幕数   | 发布时间       |
 |-----:|:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|:-----------|:-------|:------|:-----------|
-|    1 | ![缩略图](http://i1.hdslb.com/bfs/archive/338dd06fe0b8324ca26ec3f146f610f500448221.jpg) | [《原神》角色预告-「洛恩：『杰作』」](https://www.bilibili.com/video/BV1TnEt6MEHn)            | 原神         | 252.3万 | 1.3万  | 2026-06-08 |
-|    2 | ![缩略图](http://i2.hdslb.com/bfs/archive/f970ea0af673a4fb40a103bd7530328c2d4550b8.jpg) | [新三国up锐评老三国01：这才叫真正的三国！](https://www.bilibili.com/video/BV1T4E36FEUh)        | 吃蛋挞的折棒     | 203.5万 | 2.1万  | 2026-06-09 |
-|    3 | ![缩略图](http://i0.hdslb.com/bfs/archive/6d19a0c156e6b82f71035cacec0f450bd19fb6c6.jpg) | [锐评2026年数学高考，我雷霆大怒](https://www.bilibili.com/video/BV1ZvEt6oEWR)             | 聊城市茬平一中王立本 | 440.3万 | 7,101 | 2026-06-07 |
-|    4 | ![缩略图](http://i1.hdslb.com/bfs/archive/2c51e17d5ab278033691d055015af26638867e5b.jpg) | [参加了九次高考的考生采访](https://www.bilibili.com/video/BV1xkE46PE59)                  | 自来卷三木      | 612.6万 | 6,607 | 2026-06-07 |
-|    5 | ![缩略图](http://i2.hdslb.com/bfs/archive/a53f0df5bb61b89094597f7f5d9ca61c0dd0b6c8.jpg) | [《别替我吹了》](https://www.bilibili.com/video/BV1zzEu6GEHW)                       | 伤心欲茄222    | 349.9万 | 3,539 | 2026-06-09 |
-|    6 | ![缩略图](http://i1.hdslb.com/bfs/archive/e5fa56ef7c04180134210420e575b9913adab385.jpg) | [Blender原创动画 ｜工程展示｜Lan library](https://www.bilibili.com/video/BV1wEEg62EDP) | Lan_er2    | 134.9万 | 365   | 2026-06-08 |
-|    7 | ![缩略图](http://i1.hdslb.com/bfs/archive/436f2a6d53b97fddf0f85b258c997b4f911e2a32.jpg) | [地牢酒馆-13集 《碎骨大帐篷》](https://www.bilibili.com/video/BV11cEK6rELU)              | 粘土工厂       | 137.1万 | 1,541 | 2026-06-08 |
-|    8 | ![缩略图](http://i1.hdslb.com/bfs/archive/a5c5345866b686d7c435dfd3080cd1d16d129659.jpg) | [《明日方舟》EP - 夏日远去之后](https://www.bilibili.com/video/BV1GiEg6PE3v)             | 明日方舟       | 77.7万  | 8,028 | 2026-06-08 |
-|    9 | ![缩略图](http://i2.hdslb.com/bfs/archive/966afa69b6bdcc8d7001e6a83adb30c1a08a28e8.jpg) | [羊把自己放进冰箱](https://www.bilibili.com/video/BV1w5EM6rEEd)                      | 霉冥_        | 163.2万 | 2,579 | 2026-06-08 |
-|   10 | ![缩略图](http://i1.hdslb.com/bfs/archive/609a023ae422249567553ffc4b214b75b2eb952d.jpg) | [《高考固定NPC 2026》](https://www.bilibili.com/video/BV1ALEg6UEeN)                | 嘞是唐孃孃      | 375.5万 | 313   | 2026-06-08 |
-|   11 | ![缩略图](http://i2.hdslb.com/bfs/archive/636366ae88e9b99461ee93fa2da8ff7f284c23a1.jpg) | [德国的耻辱](https://www.bilibili.com/video/BV1MyEg6ZEFt)                         | 燕三嘤嘤嘤      | 199.7万 | 1.2万  | 2026-06-08 |
-|   12 | ![缩略图](http://i0.hdslb.com/bfs/archive/1db97203934b38058a9ba67943a3579393f4b222.jpg) | [《追逐卡蕾多》首次测试招募PV & 实机演示](https://www.bilibili.com/video/BV1fMV268E7X)        | 追逐卡蕾多      | 357.9万 | 1,752 | 2026-06-08 |
-|   13 | ![缩略图](http://i2.hdslb.com/bfs/archive/f90ba4cac305606c3358ab4924e3d68f476769fe.jpg) | [还能再来一次吗…](https://www.bilibili.com/video/BV1UzE765Ewm)                      | 小潮院长       | 101.0万 | 1.8万  | 2026-06-10 |
-|   14 | ![缩略图](http://i2.hdslb.com/bfs/archive/76e388cafc01c667f41f914a76d4e41c7f2cc262.jpg) | [2026新一卷数学！难出天际？？？！](https://www.bilibili.com/video/BV1XGEE6QEcw)            | 一数         | 205.3万 | 7,952 | 2026-06-09 |
-|   15 | ![缩略图](http://i0.hdslb.com/bfs/archive/06bcb84e42974283a3ade3bf6fbee2302b4b4d96.jpg) | [人，握爪后就不要放开咯！——《伊莫》握爪测试招募开启](https://www.bilibili.com/video/BV1CQ7o61ERo)    | 伊莫         | 530.1万 | 796   | 2026-06-07 |
-|   16 | ![缩略图](http://i1.hdslb.com/bfs/archive/1c4746ea93e44d9e7b9ab226a2ccbf8055ce9a2a.jpg) | [高考结束后回校的高二生](https://www.bilibili.com/video/BV1BcEE6FE5L)                   | 阿君AI小剧场    | 418.3万 | 1.0万  | 2026-06-09 |
-|   17 | ![缩略图](http://i2.hdslb.com/bfs/archive/deeb691257a57979e33569ddbda3f66373262351.jpg) | [为了知晓地球年龄，人类究竟有多难？](https://www.bilibili.com/video/BV1xzE46KEFk)             | 星团菌        | 218.6万 | 3,290 | 2026-06-07 |
-|   18 | ![缩略图](http://i2.hdslb.com/bfs/archive/25fa607c0d502c0e3cfbf8f24c5fb5e1ca698cc4.jpg) | [12 个脑洞大开的美食制作方式，有手就会！](https://www.bilibili.com/video/BV1JaE56pEKE)         | 胡仔一人食      | 148.4万 | 861   | 2026-06-09 |
-|   19 | ![缩略图](http://i0.hdslb.com/bfs/archive/0ff11df121432a1b7599f76c12954dfc8beb57a9.jpg) | [和日本女友去她丈母娘家里](https://www.bilibili.com/video/BV1vUEu6KEyw)                  | 我不是黄毛-     | 208.4万 | 1,950 | 2026-06-08 |
-|   20 | ![缩略图](http://i2.hdslb.com/bfs/archive/3019a85021b4f6d2efe63b865eeacf6bd860ef52.jpg) | [死亡盲区：濒死时，人们能看见什么？](https://www.bilibili.com/video/BV1EnEg65EZx)             | 大圆镜科普      | 126.0万 | 1,284 | 2026-06-08 |
+|    1 | ![缩略图](http://i1.hdslb.com/bfs/archive/338dd06fe0b8324ca26ec3f146f610f500448221.jpg) | [《原神》角色预告-「洛恩：『杰作』」](https://www.bilibili.com/video/BV1TnEt6MEHn)            | 原神         | 257.9万 | 1.3万  | 2026-06-08 |
+|    2 | ![缩略图](http://i2.hdslb.com/bfs/archive/f970ea0af673a4fb40a103bd7530328c2d4550b8.jpg) | [新三国up锐评老三国01：这才叫真正的三国！](https://www.bilibili.com/video/BV1T4E36FEUh)        | 吃蛋挞的折棒     | 216.8万 | 2.2万  | 2026-06-09 |
+|    3 | ![缩略图](http://i2.hdslb.com/bfs/archive/a53f0df5bb61b89094597f7f5d9ca61c0dd0b6c8.jpg) | [《别替我吹了》](https://www.bilibili.com/video/BV1zzEu6GEHW)                       | 伤心欲茄222    | 370.7万 | 3,665 | 2026-06-09 |
+|    4 | ![缩略图](http://i0.hdslb.com/bfs/archive/6d19a0c156e6b82f71035cacec0f450bd19fb6c6.jpg) | [锐评2026年数学高考，我雷霆大怒](https://www.bilibili.com/video/BV1ZvEt6oEWR)             | 聊城市茬平一中王立本 | 448.0万 | 7,186 | 2026-06-07 |
+|    5 | ![缩略图](http://i1.hdslb.com/bfs/archive/e5fa56ef7c04180134210420e575b9913adab385.jpg) | [Blender原创动画 ｜工程展示｜Lan library](https://www.bilibili.com/video/BV1wEEg62EDP) | Lan_er2    | 141.5万 | 397   | 2026-06-08 |
+|    6 | ![缩略图](http://i1.hdslb.com/bfs/archive/436f2a6d53b97fddf0f85b258c997b4f911e2a32.jpg) | [地牢酒馆-13集 《碎骨大帐篷》](https://www.bilibili.com/video/BV11cEK6rELU)              | 粘土工厂       | 141.2万 | 1,557 | 2026-06-08 |
+|    7 | ![缩略图](http://i1.hdslb.com/bfs/archive/a5c5345866b686d7c435dfd3080cd1d16d129659.jpg) | [《明日方舟》EP - 夏日远去之后](https://www.bilibili.com/video/BV1GiEg6PE3v)             | 明日方舟       | 79.8万  | 8,118 | 2026-06-08 |
+|    8 | ![缩略图](http://i2.hdslb.com/bfs/archive/966afa69b6bdcc8d7001e6a83adb30c1a08a28e8.jpg) | [羊把自己放进冰箱](https://www.bilibili.com/video/BV1w5EM6rEEd)                      | 霉冥_        | 171.3万 | 2,916 | 2026-06-08 |
+|    9 | ![缩略图](http://i2.hdslb.com/bfs/archive/f90ba4cac305606c3358ab4924e3d68f476769fe.jpg) | [还能再来一次吗…](https://www.bilibili.com/video/BV1UzE765Ewm)                      | 小潮院长       | 128.7万 | 1.9万  | 2026-06-10 |
+|   10 | ![缩略图](http://i1.hdslb.com/bfs/archive/609a023ae422249567553ffc4b214b75b2eb952d.jpg) | [《高考固定NPC 2026》](https://www.bilibili.com/video/BV1ALEg6UEeN)                | 嘞是唐孃孃      | 391.5万 | 329   | 2026-06-08 |
+|   11 | ![缩略图](http://i2.hdslb.com/bfs/archive/636366ae88e9b99461ee93fa2da8ff7f284c23a1.jpg) | [德国的耻辱](https://www.bilibili.com/video/BV1MyEg6ZEFt)                         | 燕三嘤嘤嘤      | 208.1万 | 1.2万  | 2026-06-08 |
+|   12 | ![缩略图](http://i2.hdslb.com/bfs/archive/76e388cafc01c667f41f914a76d4e41c7f2cc262.jpg) | [2026新一卷数学！难出天际？？？！](https://www.bilibili.com/video/BV1XGEE6QEcw)            | 一数         | 225.8万 | 9,319 | 2026-06-09 |
+|   13 | ![缩略图](http://i1.hdslb.com/bfs/archive/2c51e17d5ab278033691d055015af26638867e5b.jpg) | [参加了九次高考的考生采访](https://www.bilibili.com/video/BV1xkE46PE59)                  | 自来卷三木      | 627.5万 | 6,748 | 2026-06-07 |
+|   14 | ![缩略图](http://i0.hdslb.com/bfs/archive/1db97203934b38058a9ba67943a3579393f4b222.jpg) | [《追逐卡蕾多》首次测试招募PV & 实机演示](https://www.bilibili.com/video/BV1fMV268E7X)        | 追逐卡蕾多      | 358.4万 | 1,765 | 2026-06-08 |
+|   15 | ![缩略图](http://i1.hdslb.com/bfs/archive/1c4746ea93e44d9e7b9ab226a2ccbf8055ce9a2a.jpg) | [高考结束后回校的高二生](https://www.bilibili.com/video/BV1BcEE6FE5L)                   | 阿君AI小剧场    | 484.4万 | 1.2万  | 2026-06-09 |
+|   16 | ![缩略图](http://i0.hdslb.com/bfs/archive/f2085858e4d1c4dc4e66debafb61d62e325f47cc.jpg) | [我以为我们大了 会看些成熟的东西](https://www.bilibili.com/video/BV1ytEu6SESN)              | 车瓶人虹泽RC    | 297.1万 | 1,065 | 2026-06-08 |
+|   17 | ![缩略图](http://i2.hdslb.com/bfs/archive/25fa607c0d502c0e3cfbf8f24c5fb5e1ca698cc4.jpg) | [12 个脑洞大开的美食制作方式，有手就会！](https://www.bilibili.com/video/BV1JaE56pEKE)         | 胡仔一人食      | 155.2万 | 895   | 2026-06-09 |
+|   18 | ![缩略图](http://i2.hdslb.com/bfs/archive/f47d9615812e7adcf174b811036e3e4cddc602d0.jpg) | [【某幻】《盛世天下》再返深宫，活下来！](https://www.bilibili.com/video/BV1W4EE6GECF)           | 某幻君        | 241.2万 | 3.3万  | 2026-06-09 |
+|   19 | ![缩略图](http://i0.hdslb.com/bfs/archive/0ff11df121432a1b7599f76c12954dfc8beb57a9.jpg) | [和日本女友去她丈母娘家里](https://www.bilibili.com/video/BV1vUEu6KEyw)                  | 我不是黄毛-     | 215.1万 | 2,002 | 2026-06-08 |
+|   20 | ![缩略图](http://i1.hdslb.com/bfs/archive/93075bc98f14fac02640d2f20812a5cb5026fc5c.jpg) | [海上六十秒成功撤离](https://www.bilibili.com/video/BV1uvEK6EEJZ)                     | Z贤者        | 418.4万 | 3,572 | 2026-06-08 |
 
 ## 原创排行榜
 
@@ -66,7 +66,7 @@
 |    2 | ![缩略图](http://i1.hdslb.com/bfs/archive/0a30707c2ebcfb6bb1d2f8be1f7519440f2316c2.jpg) | [【大鸣王潮1566】死告者](https://www.bilibili.com/video/BV1UbZ8YmEP8)                      | 寞桀緣才        | 163.7万  | 8,985 | 2025-04-01 |
 |    3 | ![缩略图](http://i0.hdslb.com/bfs/archive/1bbe3e49eb1238078ed9661976a895930e59ac79.jpg) | [《穷鬼的上下两千年》第一集：老夫，秦国白起](https://www.bilibili.com/video/BV1mSZkYQEGf)              | 吃顾楠的豆饭      | 128.1万  | 1,488 | 2025-03-30 |
 |    4 | ![缩略图](http://i2.hdslb.com/bfs/archive/e326721140399d27daa32f726ba0fa94a1fa16c6.jpg) | [“把怪兽叫来，我让你把怪兽叫来！”](https://www.bilibili.com/video/BV1q2ZtYtExy)                  | 思瑞弟         | 405.5万  | 2,151 | 2025-04-01 |
-|    5 | ![缩略图](http://i2.hdslb.com/bfs/archive/1cbd7b4fb3b048241abed4b1bf9cdc369ef2e537.jpg) | [以前光顾着看陀螺了！一个角色为啥比动画还火？](https://www.bilibili.com/video/BV1dEfKYcENK)             | The梁某人      | 303.6万  | 5,939 | 2025-04-02 |
+|    5 | ![缩略图](http://i2.hdslb.com/bfs/archive/1cbd7b4fb3b048241abed4b1bf9cdc369ef2e537.jpg) | [以前光顾着看陀螺了！一个角色为啥比动画还火？](https://www.bilibili.com/video/BV1dEfKYcENK)             | The梁某人      | 303.7万  | 5,939 | 2025-04-02 |
 |    6 | ![缩略图](http://i1.hdslb.com/bfs/archive/bd075d84fe612fe8f274645e102468c278f8c3b9.jpg) | [林宇同居16集 林宇要打苏清雪打屁屁了](https://www.bilibili.com/video/BV1YTZvYMECW)                | 王权神算        | 386.5万  | 469   | 2025-03-30 |
 |    7 | ![缩略图](http://i2.hdslb.com/bfs/archive/39d8e766723a603bc00c78bd4e82d5420743ff01.jpg) | [【Mujica/完结纪念Mad】心灵感应 :-sakiko](https://www.bilibili.com/video/BV1U7ZxYzEkC)      | 法國香菜        | 78.3万   | 347   | 2025-04-01 |
 |    8 | ![缩略图](http://i0.hdslb.com/bfs/archive/f903722abeb55e76dd01425758d720095bd6d54b.jpg) | [墨墨尊瞳](https://www.bilibili.com/video/BV1G1ofYiENJ)                               | 严小墨哦        | 722.9万  | 536   | 2025-03-29 |
