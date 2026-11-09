@@ -1,6 +1,6 @@
 # B站视频排行榜
 
-更新时间: 2026-11-08 17:17:57
+更新时间: 2026-11-09 03:17:48
 
 ## 全站排行榜
 
@@ -8,26 +8,26 @@
 
 |   排名 | 缩略图                                                                                  | 标题                                                                                                      | UP主           | 播放量    | 弹幕数   | 发布时间       |
 |-----:|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|:-------|:------|:-----------|
-|    1 | ![缩略图](http://i1.hdslb.com/bfs/archive/d4305c122263017f3eb24fdcf34b352d08af4a36.jpg) | [《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」](https://www.bilibili.com/video/BV1tS4n6CEoJ)                               | 崩坏星穹铁道        | 356.4万 | 2.7万  | 2026-11-08 |
-|    2 | ![缩略图](http://i1.hdslb.com/bfs/archive/7a8449a206881e89b3dac64b49f677e25d6160e0.jpg) | [近十几年的梗都在这里了](https://www.bilibili.com/video/BV1mv4Y6rESW)                                              | 怠惰的一休         | 460.2万 | 1.0万  | 2026-11-06 |
-|    3 | ![缩略图](http://i0.hdslb.com/bfs/archive/c510a20389cb9da2aa53db5a95ac7d2152ddaeb5.jpg) | [火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）](https://www.bilibili.com/video/BV1Z24J6dEBk)                       | 火柴人AlanBecker | 126.3万 | 6.7万  | 2026-11-07 |
-|    4 | ![缩略图](http://i2.hdslb.com/bfs/archive/0599180bc6ff6a9b8eb2eead9df07295961aa85f.jpg) | [《再飞行！》MV：终于完整的旋律，是我们继续出发的BGM！](https://www.bilibili.com/video/BV1UB4v67Exr)                            | 星游记RS         | 181.2万 | 2,215 | 2026-11-06 |
-|    5 | ![缩略图](http://i2.hdslb.com/bfs/archive/b7903a518d7856b1edab337279c31701dc4e3fb2.jpg) | [乖乖待在我身边学英语不好吗？非要把你关起来吗？](https://www.bilibili.com/video/BV1LX4b6yEax)                                  | 考研英语晓燕        | 243.1万 | 1.2万  | 2026-11-05 |
-|    6 | ![缩略图](http://i2.hdslb.com/bfs/archive/2bf7509039bb7834b5c3737011732401e9b1fcec.jpg) | [早期的人工智能Be like：](https://www.bilibili.com/video/BV1NU4t6tERV)                                          | Re1剪辑         | 396.0万 | 673   | 2026-11-05 |
-|    7 | ![缩略图](http://i1.hdslb.com/bfs/archive/93f2a017770685b35cabebd9bd1441a315ed0865.jpg) | [人类饲养指南](https://www.bilibili.com/video/BV1Cn4n6YE29)                                                   | 抽象生活先生        | 209.0万 | 583   | 2026-11-07 |
-|    8 | ![缩略图](http://i0.hdslb.com/bfs/archive/1e21c3aa1f635dc0e1eb4245b892f3cc942e5076.jpg) | [《绝区零》未明通讯丨知更鸟&卡芙卡](https://www.bilibili.com/video/BV1oU4762EHR)                                        | 绝区零           | 220.7万 | 1.8万  | 2026-11-07 |
-|    9 | ![缩略图](http://i1.hdslb.com/bfs/archive/d6ccb27f921f5034f65fd2afb6da1f86dfcd9155.jpg) | [“动漫可能没看过，但是梗一个不落p2”](https://www.bilibili.com/video/BV1MsxC6KE4n)                                      | 漫剪laug        | 350.5万 | 372   | 2026-11-05 |
-|   10 | ![缩略图](http://i0.hdslb.com/bfs/archive/896520044c9c110074526f82e78080fda91ea4da.jpg) | [最强的战绩，铭刻于决斗场！](https://www.bilibili.com/video/BV1fn4z6LEzY)                                            | 无我漂佩MY        | 202.5万 | 6,653 | 2026-11-07 |
-|   11 | ![缩略图](http://i2.hdslb.com/bfs/archive/f1b939fc97d3ac90cf99d657567def62855de3f5.jpg) | [Roblox 单色](https://www.bilibili.com/video/BV1zk4b6nE21)                                                | 鲤鱼Ace         | 219.6万 | 3.7万  | 2026-11-05 |
-|   12 | ![缩略图](http://i2.hdslb.com/bfs/archive/22299adcaeed9e97b788078830ab7dcbdd8a2c8c.jpg) | [物理意义上烫烫的一集](https://www.bilibili.com/video/BV1mpxR6KESh)                                               | 吴磊LEO         | 380.8万 | 2.3万  | 2026-11-05 |
-|   13 | ![缩略图](http://i1.hdslb.com/bfs/archive/69c80bceaaf6c7dd61e7f08ad4c46dc8e037ac96.jpg) | [【数据删除】基金会最欢乐的特战队，三名让异常破防的不死大爹——《SCP-2639-电子游戏暴力》](https://www.bilibili.com/video/BV1474i6DEzi)         | 科幻视界          | 183.6万 | 1,744 | 2026-11-06 |
-|   14 | ![缩略图](http://i2.hdslb.com/bfs/archive/fe3efa84236e57925ec6354f138168702b879cae.jpg) | [消失10个月，我带着一个新生命，重新出发！](https://www.bilibili.com/video/BV1nq4B62E5J)                                    | 超感官世界         | 134.4万 | 7,388 | 2026-11-06 |
-|   15 | ![缩略图](http://i0.hdslb.com/bfs/archive/c55f329355f9e8dbab23d5a24235d03af7d6c373.jpg) | [第一个过万圣节的人](https://www.bilibili.com/video/BV1QZ4b6gEVc)                                                | 龙yeye         | 150.9万 | 2,664 | 2026-11-05 |
-|   16 | ![缩略图](http://i0.hdslb.com/bfs/archive/3710cdb36c19165f55a2d7b58810952872fc48ef.jpg) | [瞎说的什么玩意？](https://www.bilibili.com/video/BV1ZVxf6ZENs)                                                 | 小潮院长          | 392.2万 | 1.1万  | 2026-11-05 |
-|   17 | ![缩略图](http://i1.hdslb.com/bfs/archive/36ab41954fefe865156ff6353c16fc407d52926d.jpg) | [大肥鱼：自 由 美 利 鲸](https://www.bilibili.com/video/BV1YdxR6CE79)                                            | 真誠最高          | 206.1万 | 377   | 2026-11-05 |
-|   18 | ![缩略图](http://i1.hdslb.com/bfs/archive/523c6b9e6d8e48a247391d3ec37b5cee4cb11c7a.jpg) | [假如短剧是违禁品📱](https://www.bilibili.com/video/BV1ae4q6fEis)                                                | 幾加乘           | 234.0万 | 1,422 | 2026-11-06 |
-|   19 | ![缩略图](http://i1.hdslb.com/bfs/archive/7cfedbf016bf3ac91f695385e310b46478c7b05a.jpg) | [10月26号生日啦 生日时拍的 可能是我比较懒吧 现在才发#cos不还原致谦一切 #自设cos #日常 #cos](https://www.bilibili.com/video/BV198456AE5S) | 原来紫梦也玩原神      | 82.9万  | 7,681 | 2026-11-06 |
-|   20 | ![缩略图](http://i2.hdslb.com/bfs/archive/037bfc77b20d95609f7f34fbe89a469a762cd437.jpg) | [小睦遇到一只跟她长得很像的大肥鱼](https://www.bilibili.com/video/BV1Yg4i6xEEt)                                         | 东洋雪莲          | 220.3万 | 789   | 2026-11-06 |
+|    1 | ![缩略图](http://i1.hdslb.com/bfs/archive/d4305c122263017f3eb24fdcf34b352d08af4a36.jpg) | [《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」](https://www.bilibili.com/video/BV1tS4n6CEoJ)                               | 崩坏星穹铁道        | 380.5万 | 2.8万  | 2026-11-08 |
+|    2 | ![缩略图](http://i1.hdslb.com/bfs/archive/7a8449a206881e89b3dac64b49f677e25d6160e0.jpg) | [近十几年的梗都在这里了](https://www.bilibili.com/video/BV1mv4Y6rESW)                                              | 怠惰的一休         | 469.6万 | 1.0万  | 2026-11-06 |
+|    3 | ![缩略图](http://i0.hdslb.com/bfs/archive/c510a20389cb9da2aa53db5a95ac7d2152ddaeb5.jpg) | [火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）](https://www.bilibili.com/video/BV1Z24J6dEBk)                       | 火柴人AlanBecker | 134.6万 | 6.8万  | 2026-11-07 |
+|    4 | ![缩略图](http://i2.hdslb.com/bfs/archive/0599180bc6ff6a9b8eb2eead9df07295961aa85f.jpg) | [《再飞行！》MV：终于完整的旋律，是我们继续出发的BGM！](https://www.bilibili.com/video/BV1UB4v67Exr)                            | 星游记RS         | 187.3万 | 2,239 | 2026-11-06 |
+|    5 | ![缩略图](http://i1.hdslb.com/bfs/archive/93f2a017770685b35cabebd9bd1441a315ed0865.jpg) | [人类饲养指南](https://www.bilibili.com/video/BV1Cn4n6YE29)                                                   | 抽象生活先生        | 227.1万 | 628   | 2026-11-07 |
+|    6 | ![缩略图](http://i0.hdslb.com/bfs/archive/1e21c3aa1f635dc0e1eb4245b892f3cc942e5076.jpg) | [《绝区零》未明通讯丨知更鸟&卡芙卡](https://www.bilibili.com/video/BV1oU4762EHR)                                        | 绝区零           | 228.5万 | 1.8万  | 2026-11-07 |
+|    7 | ![缩略图](http://i2.hdslb.com/bfs/archive/b7903a518d7856b1edab337279c31701dc4e3fb2.jpg) | [乖乖待在我身边学英语不好吗？非要把你关起来吗？](https://www.bilibili.com/video/BV1LX4b6yEax)                                  | 考研英语晓燕        | 247.3万 | 1.2万  | 2026-11-05 |
+|    8 | ![缩略图](http://i0.hdslb.com/bfs/archive/896520044c9c110074526f82e78080fda91ea4da.jpg) | [最强的战绩，铭刻于决斗场！](https://www.bilibili.com/video/BV1fn4z6LEzY)                                            | 无我漂佩MY        | 209.6万 | 6,834 | 2026-11-07 |
+|    9 | ![缩略图](http://i2.hdslb.com/bfs/archive/2bf7509039bb7834b5c3737011732401e9b1fcec.jpg) | [早期的人工智能Be like：](https://www.bilibili.com/video/BV1NU4t6tERV)                                          | Re1剪辑         | 398.7万 | 680   | 2026-11-05 |
+|   10 | ![缩略图](http://i1.hdslb.com/bfs/archive/69c80bceaaf6c7dd61e7f08ad4c46dc8e037ac96.jpg) | [【数据删除】基金会最欢乐的特战队，三名让异常破防的不死大爹——《SCP-2639-电子游戏暴力》](https://www.bilibili.com/video/BV1474i6DEzi)         | 科幻视界          | 190.1万 | 1,782 | 2026-11-06 |
+|   11 | ![缩略图](http://i2.hdslb.com/bfs/archive/fe3efa84236e57925ec6354f138168702b879cae.jpg) | [消失10个月，我带着一个新生命，重新出发！](https://www.bilibili.com/video/BV1nq4B62E5J)                                    | 超感官世界         | 136.7万 | 7,523 | 2026-11-06 |
+|   12 | ![缩略图](http://i0.hdslb.com/bfs/archive/c55f329355f9e8dbab23d5a24235d03af7d6c373.jpg) | [第一个过万圣节的人](https://www.bilibili.com/video/BV1QZ4b6gEVc)                                                | 龙yeye         | 157.6万 | 2,738 | 2026-11-05 |
+|   13 | ![缩略图](http://i1.hdslb.com/bfs/archive/d6ccb27f921f5034f65fd2afb6da1f86dfcd9155.jpg) | [“动漫可能没看过，但是梗一个不落p2”](https://www.bilibili.com/video/BV1MsxC6KE4n)                                      | 漫剪laug        | 357.8万 | 379   | 2026-11-05 |
+|   14 | ![缩略图](http://i1.hdslb.com/bfs/archive/523c6b9e6d8e48a247391d3ec37b5cee4cb11c7a.jpg) | [假如短剧是违禁品📱](https://www.bilibili.com/video/BV1ae4q6fEis)                                                | 幾加乘           | 240.6万 | 1,447 | 2026-11-06 |
+|   15 | ![缩略图](http://i2.hdslb.com/bfs/archive/f1b939fc97d3ac90cf99d657567def62855de3f5.jpg) | [Roblox 单色](https://www.bilibili.com/video/BV1zk4b6nE21)                                                | 鲤鱼Ace         | 221.9万 | 3.8万  | 2026-11-05 |
+|   16 | ![缩略图](http://i1.hdslb.com/bfs/archive/7cfedbf016bf3ac91f695385e310b46478c7b05a.jpg) | [10月26号生日啦 生日时拍的 可能是我比较懒吧 现在才发#cos不还原致谦一切 #自设cos #日常 #cos](https://www.bilibili.com/video/BV198456AE5S) | 原来紫梦也玩原神      | 85.1万  | 7,846 | 2026-11-06 |
+|   17 | ![缩略图](http://i2.hdslb.com/bfs/archive/037bfc77b20d95609f7f34fbe89a469a762cd437.jpg) | [小睦遇到一只跟她长得很像的大肥鱼](https://www.bilibili.com/video/BV1Yg4i6xEEt)                                         | 东洋雪莲          | 230.6万 | 809   | 2026-11-06 |
+|   18 | ![缩略图](http://i0.hdslb.com/bfs/archive/f04aa692f420f825c1cc94975433375b05511bf1.jpg) | [农村大片! 大战外星人! 好莱坞都不敢这么拍](https://www.bilibili.com/video/BV11S4z6xEpc)                                   | 神奇的老皮         | 199.9万 | 2,200 | 2026-11-06 |
+|   19 | ![缩略图](http://i2.hdslb.com/bfs/archive/a7e8aa0f0dc89a96e19e06fce845cfe3d70d51ef.jpg) | [“这是给孩子的，不是给你的”](https://www.bilibili.com/video/BV1Wx4i6LEmf)                                           | 上邪aa          | 468.8万 | 1,118 | 2026-11-06 |
+|   20 | ![缩略图](http://i1.hdslb.com/bfs/archive/36ab41954fefe865156ff6353c16fc407d52926d.jpg) | [大肥鱼：自 由 美 利 鲸](https://www.bilibili.com/video/BV1YdxR6CE79)                                            | 真誠最高          | 207.8万 | 386   | 2026-11-05 |
 
 ## 原创排行榜
 
