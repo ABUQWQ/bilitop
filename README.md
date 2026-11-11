@@ -1,14 +1,60 @@
 # B站视频排行榜
 
-更新时间: 2026-11-10 18:58:28
+更新时间: 2026-11-11 03:26:37
 
-## 全站排行榜（数据获取失败）
+## 全站排行榜
 
-*暂无数据*
+*点击标题可直接跳转到对应视频*
 
-## 原创排行榜（数据获取失败）
+|   排名 | 缩略图                                                                                  | 标题                                                                                              | UP主             | 播放量     | 弹幕数   | 发布时间       |
+|-----:|:-------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|:----------------|:--------|:------|:-----------|
+|    1 | ![缩略图](http://i1.hdslb.com/bfs/archive/d4305c122263017f3eb24fdcf34b352d08af4a36.jpg) | [《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」](https://www.bilibili.com/video/BV1tS4n6CEoJ)                       | 崩坏星穹铁道          | 489.1万  | 3.3万  | 2026-11-08 |
+|    2 | ![缩略图](http://i0.hdslb.com/bfs/archive/342a910266c83a5ebaa76e9a04f6c684f672b5cb.jpg) | [【2026全球总决赛】11月9日 BLG vs T1](https://www.bilibili.com/video/BV1TgWp6MEHJ)                       | 哔哩哔哩英雄联盟赛事      | 1420.2万 | 15.8万 | 2026-11-08 |
+|    3 | ![缩略图](http://i1.hdslb.com/bfs/archive/1527d8f9b12f1e5945575bb8ae0c21ce443bb384.jpg) | [《阴阳师》笼梦祸津神CG丨祸至无日（CV：中野彩麻）](https://www.bilibili.com/video/BV1sCWx6GEsH)                       | 网易阴阳师手游         | 234.1万  | 1,242 | 2026-11-09 |
+|    4 | ![缩略图](http://i1.hdslb.com/bfs/archive/93f2a017770685b35cabebd9bd1441a315ed0865.jpg) | [人类饲养指南](https://www.bilibili.com/video/BV1Cn4n6YE29)                                           | 抽象生活先生          | 275.2万  | 798   | 2026-11-07 |
+|    5 | ![缩略图](http://i1.hdslb.com/bfs/archive/d3c63ce4e99f4c48a6808a534d4aa88eb9a962a6.jpg) | [当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】【完整版合集】](https://www.bilibili.com/video/BV1vmWJ6LEmW)      | SillyZ_Official | 371.2万  | 2,476 | 2026-11-08 |
+|    6 | ![缩略图](http://i2.hdslb.com/bfs/archive/c0be5b731d4162fd8652a221d41a623606d8ae79.jpg) | [选举大败特朗普和马斯克这下惨了](https://www.bilibili.com/video/BV1WEWs66EBP)                                  | 燕三嘤嘤嘤           | 300.1万  | 1.3万  | 2026-11-09 |
+|    7 | ![缩略图](http://i2.hdslb.com/bfs/archive/60a9d897e2984e0c4c503301b0906ea771c968da.jpg) | [出现在餐桌上的清明上河图](https://www.bilibili.com/video/BV1so4E6cEGi)                                     | 小馒头的面食面艺        | 391.2万  | 8,990 | 2026-11-07 |
+|    8 | ![缩略图](http://i2.hdslb.com/bfs/archive/b752fa1c07f460e004c54947ace018153eb2f7b6.jpg) | [耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《灰蚀危机》【ai全民制作人】](https://www.bilibili.com/video/BV18GW76hEdg) | 陶冶AI            | 106.6万  | 2,902 | 2026-11-08 |
+|    9 | ![缩略图](http://i2.hdslb.com/bfs/archive/b42cacc1dd4471b0fe1c6ea55f8103f7121ed487.jpg) | [这游戏是很多人的一辈子](https://www.bilibili.com/video/BV1J54W6NELg)                                      | 拧不动啊真拧不动        | 352.7万  | 2,125 | 2026-11-08 |
+|   10 | ![缩略图](http://i2.hdslb.com/bfs/archive/21895396c10b379f44589b0c4615546864cf5361.jpg) | [《绝区零》赛维里安EP ｜ Gambit](https://www.bilibili.com/video/BV1xiWW6uESZ)                             | 绝区零             | 123.4万  | 2,119 | 2026-11-09 |
+|   11 | ![缩略图](http://i0.hdslb.com/bfs/archive/9212b1401ca3e4f2bcaf5d6e0e2e60b35d73c024.jpg) | [《虚环》PV03｜致过去与未来的歌](https://www.bilibili.com/video/BV1h4WW6LEEv)                                | 虚环              | 671.9万  | 1,564 | 2026-11-09 |
+|   12 | ![缩略图](http://i0.hdslb.com/bfs/archive/c510a20389cb9da2aa53db5a95ac7d2152ddaeb5.jpg) | [火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）](https://www.bilibili.com/video/BV1Z24J6dEBk)               | 火柴人AlanBecker   | 187.1万  | 7.8万  | 2026-11-07 |
+|   13 | ![缩略图](http://i1.hdslb.com/bfs/archive/82ca59995413cbf02281fd2573da473d47e6505a.jpg) | [如何盗走《蒙娜丽莎》？【硬核狠人92】](https://www.bilibili.com/video/BV1i4W86zEUS)                              | 小约翰可汗           | 131.7万  | 9,536 | 2026-11-10 |
+|   14 | ![缩略图](http://i2.hdslb.com/bfs/archive/b9290ef6ae654ae2a755e9ef29451286e03fd594.jpg) | [【IEM科隆Major纪录片】Field of View - Focus to Win](https://www.bilibili.com/video/BV1vp4W6fEQR)      | ESL官方账号         | 84.2万   | 6,327 | 2026-11-08 |
+|   15 | ![缩略图](http://i1.hdslb.com/bfs/archive/33ea10e3689c48363ac64223886052e9252547fe.jpg) | [谁一周后的播放量高，谁就是流量王！！！【流量王番外篇蓝队】](https://www.bilibili.com/video/BV13zWn66EXB)                    | 徐大虾咯            | 94.6万   | 3,899 | 2026-11-09 |
+|   16 | ![缩略图](http://i2.hdslb.com/bfs/archive/a7e8aa0f0dc89a96e19e06fce845cfe3d70d51ef.jpg) | [“这是给孩子的，不是给你的”](https://www.bilibili.com/video/BV1Wx4i6LEmf)                                   | 上邪aa            | 578.0万  | 1,328 | 2026-11-06 |
+|   17 | ![缩略图](http://i2.hdslb.com/bfs/archive/b99979906d346700518fe4bf08bb894750d5f342.jpg) | [《灭霸全家福》灭霸的爸爸是灭建国，被艾特的都是扎啤！](https://www.bilibili.com/video/BV1vB4p6fEVX)                       | 音乐老友            | 165.7万  | 549   | 2026-11-07 |
+|   18 | ![缩略图](http://i1.hdslb.com/bfs/archive/5ad3175f148357620ff7c24bdb4f696662c535a8.jpg) | [谁一周后的播放量高，谁就是流量王！！！【流量王番外篇红队】](https://www.bilibili.com/video/BV1RLWW6XEfn)                    | 雨哥到处跑           | 89.7万   | 7,159 | 2026-11-09 |
+|   19 | ![缩略图](http://i1.hdslb.com/bfs/archive/ecc7de65daeeba10de4dc204b98e2db578513b44.jpg) | [《毁于一蛋》](https://www.bilibili.com/video/BV1eV4J6JEQi)                                           | 伤心欲茄222         | 157.8万  | 952   | 2026-11-08 |
+|   20 | ![缩略图](http://i1.hdslb.com/bfs/archive/bbfaf2b22392f5d63acb9707de452f1b4c96a696.jpg) | [BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】](https://www.bilibili.com/video/BV1kkWW6NEDW)  | 新华社             | 133.9万  | 4,481 | 2026-11-09 |
 
-*暂无数据*
+## 原创排行榜
+
+*点击标题可直接跳转到对应视频*
+
+|   排名 | 缩略图                                                                                  | 标题                                                                                        | UP主         | 播放量     | 弹幕数   | 发布时间       |
+|-----:|:-------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:------------|:--------|:------|:-----------|
+|    1 | ![缩略图](http://i0.hdslb.com/bfs/archive/86d549aefffed622ed4edeb99896489308abfeb8.jpg) | [特厨探店 ｜听说济南本地人只排这里的队？！](https://www.bilibili.com/video/BV1ykjtzLEub)                      | 特厨隋坡        | 542.8万  | 4,066 | 2025-05-25 |
+|    2 | ![缩略图](http://i1.hdslb.com/bfs/archive/d59d9f487211c206733a4ec0ccc115306190db7a.jpg) | [扭曲的身躯散发着耀眼的光！青岛报纸哥-孙大帅！](https://www.bilibili.com/video/BV1CdjnzWEs9)                    | 瞎通不设计了      | 629.9万  | 1.0万  | 2025-05-24 |
+|    3 | ![缩略图](http://i0.hdslb.com/bfs/archive/8d4ea3251893291530ee3f95f77a8cbac8fd109b.jpg) | [SEVENTEEN 'THUNDER' Official MV](https://www.bilibili.com/video/BV1q8ExzYEs6)            | SEVENTEEN   | 453.5万  | 6.5万  | 2025-05-26 |
+|    4 | ![缩略图](http://i1.hdslb.com/bfs/archive/ddbbd63e6a53086177dcf23bed14a5d9860f2374.jpg) | [喜欢看鸭子吃浮漂的朋友这个视频让你看个够](https://www.bilibili.com/video/BV125jmzKEBm)                       | 山野农夫瑙叔      | 642.0万  | 1.0万  | 2025-05-26 |
+|    5 | ![缩略图](http://i1.hdslb.com/bfs/archive/98c2c6a4481c58fb487f64d5639a8a21202df62b.jpg) | [红狼：被黑暗笼罩过的人，总想着给世界添一束光](https://www.bilibili.com/video/BV1Yqj1zkECP)                     | 高司令-速凌电竞    | 1149.8万 | 3.9万  | 2025-05-26 |
+|    6 | ![缩略图](http://i2.hdslb.com/bfs/archive/027e596b11268dd4b9ee04cb6fcf0b30928a9ed7.jpg) | [谁能给墨索里尼刨坟？【神奇组织31】](https://www.bilibili.com/video/BV1WAjUzYEHh)                         | 小约翰可汗       | 554.9万  | 2.4万  | 2025-05-27 |
+|    7 | ![缩略图](http://i0.hdslb.com/bfs/archive/2026fd1d643103391bf66c0250a8bd12179a7b18.jpg) | [我的电线手工成长史](https://www.bilibili.com/video/BV1oSjGzsE1e)                                  | 玩电线的JUN     | 304.0万  | 1,397 | 2025-05-25 |
+|    8 | ![缩略图](http://i1.hdslb.com/bfs/archive/de0694504831acd1f8a7afa76f6bdace6c2069db.jpg) | [手搓20米体感机械拳！朋友想跟我比拳击，给他亿点小惊喜！](https://www.bilibili.com/video/BV1gvj8zfErp)               | 剑客范十三       | 929.0万  | 3,056 | 2025-05-25 |
+|    9 | ![缩略图](http://i1.hdslb.com/bfs/archive/ca91f2a84c093ba3c2bb81944058c1b990b5378c.jpg) | [拼凑的梦要醒了](https://www.bilibili.com/video/BV1p3j8zLEFE)                                    | 樱庭芥子        | 404.1万  | 3.9万  | 2025-05-24 |
+|   10 | ![缩略图](http://i2.hdslb.com/bfs/archive/7ed6f21815e5e00e5ac3dbedd97d75699caa31dc.jpg) | [突袭！毕业5年的up主还记得多少专业知识？！](https://www.bilibili.com/video/BV1kaJBzCE6i)                     | 老番茄         | 820.0万  | 2.8万  | 2025-05-24 |
+|   11 | ![缩略图](http://i0.hdslb.com/bfs/archive/cc57dbd349e4f9f14c4bae8933c3f746502817b5.jpg) | [【MrBeast首发】50万美元挑战内马尔和库里！](https://www.bilibili.com/video/BV1asjNzbESL)                  | 野兽先生MrBeast | 699.4万  | 1.2万  | 2025-05-25 |
+|   12 | ![缩略图](http://i2.hdslb.com/bfs/archive/1ec6c95ee009e34af570adc537b097e2299d4c40.jpg) | [赞美JOJO！一场跨越百年的奇妙冒险！《JOJO的奇妙冒险》观后感漫谈【第九放映室】](https://www.bilibili.com/video/BV1ebjuzGEZh) | 瓶子君152      | 268.3万  | 6,279 | 2025-05-25 |
+|   13 | ![缩略图](http://i0.hdslb.com/bfs/archive/db0417bf5652be389827ca93f4f07484c5c9a2ae.jpg) | [这么多年过的一般只能说明我是假千金，有人把我的生活换走了](https://www.bilibili.com/video/BV1LTjgzjEgR)               | 七颗猩猩QKXX    | 983.7万  | 1,557 | 2025-05-25 |
+|   14 | ![缩略图](http://i2.hdslb.com/bfs/archive/e3e0be3f11d5a1c92052d815409b468dd9b706e3.jpg) | [终极博弈！6个UP主互相忽悠对方砸钱?【谁是猜价王】](https://www.bilibili.com/video/BV1tCj3z6EdJ)                 | -LKs-       | 294.4万  | 2.6万  | 2025-05-26 |
+|   15 | ![缩略图](http://i1.hdslb.com/bfs/archive/1176f1332312c777a83fda6604c28da833b18fca.jpg) | [【不要搜视频版】女生刷不到！男生吓一跳！](https://www.bilibili.com/video/BV1YkjszUEes)                       | 机智的呆狗       | 2191.6万 | 1,442 | 2025-05-24 |
+|   16 | ![缩略图](http://i1.hdslb.com/bfs/archive/fb742e3f82dfec8786fd4d08d7471c0c055cb1d4.jpg) | [穿越回十年前？](https://www.bilibili.com/video/BV1HGjnzXEY2)                                    | 小杨Johnson   | 250.9万  | 5,655 | 2025-05-25 |
+|   17 | ![缩略图](http://i0.hdslb.com/bfs/archive/9edde131fd948e2faa0714007775e65f97ced848.jpg) | [晚上我是杀人保洁，白天却是受人欺负小白花](https://www.bilibili.com/video/BV1q3j2zJEsc)                       | 叶雪颜悬疑       | 1059.0万 | 1,647 | 2025-05-26 |
+|   18 | ![缩略图](http://i0.hdslb.com/bfs/archive/e692688239faa9f2699fe0de8189be320f2956d3.jpg) | [Payphone顶级改编歌 阿妈的配方](https://www.bilibili.com/video/BV1EwjgzSEqg)                        | 李明泽大改编      | 400.2万  | 1,269 | 2025-05-25 |
+|   19 | ![缩略图](http://i0.hdslb.com/bfs/archive/d04ed6009b0c470d5bd3811c1305ba8004af875f.jpg) | [P2如果全球联合举办通缉逃犯的节目，而你作为一个真正的逃犯被选中](https://www.bilibili.com/video/BV1h7jgzzETR)           | 铁拳动漫        | 1046.0万 | 123   | 2025-05-25 |
+|   20 | ![缩略图](http://i0.hdslb.com/bfs/archive/5f4ed9fc2dd98378189cbf14693a8ae6f0de089a.jpg) | [火麟飞开窍施绝技，银狮魂断火云决](https://www.bilibili.com/video/BV16ZjuzpE1J)                           | 刘成lcc       | 493.4万  | 1,332 | 2025-05-25 |
 
 ## 动画排行榜
 
@@ -20,7 +66,7 @@
 |    2 | ![缩略图](http://i1.hdslb.com/bfs/archive/0a30707c2ebcfb6bb1d2f8be1f7519440f2316c2.jpg) | [【大鸣王潮1566】死告者](https://www.bilibili.com/video/BV1UbZ8YmEP8)                      | 寞桀緣才        | 169.3万  | 9,062 | 2025-04-01 |
 |    3 | ![缩略图](http://i0.hdslb.com/bfs/archive/1bbe3e49eb1238078ed9661976a895930e59ac79.jpg) | [《穷鬼的上下两千年》第一集：老夫，秦国白起](https://www.bilibili.com/video/BV1mSZkYQEGf)              | 吃顾楠的豆饭      | 134.2万  | 1,551 | 2025-03-30 |
 |    4 | ![缩略图](http://i2.hdslb.com/bfs/archive/e326721140399d27daa32f726ba0fa94a1fa16c6.jpg) | [“把怪兽叫来，我让你把怪兽叫来！”](https://www.bilibili.com/video/BV1q2ZtYtExy)                  | 思瑞弟         | 412.5万  | 2,227 | 2025-04-01 |
-|    5 | ![缩略图](http://i2.hdslb.com/bfs/archive/1cbd7b4fb3b048241abed4b1bf9cdc369ef2e537.jpg) | [以前光顾着看陀螺了！一个角色为啥比动画还火？](https://www.bilibili.com/video/BV1dEfKYcENK)             | The梁某人      | 321.7万  | 6,223 | 2025-04-02 |
+|    5 | ![缩略图](http://i2.hdslb.com/bfs/archive/1cbd7b4fb3b048241abed4b1bf9cdc369ef2e537.jpg) | [以前光顾着看陀螺了！一个角色为啥比动画还火？](https://www.bilibili.com/video/BV1dEfKYcENK)             | The梁某人      | 321.8万  | 6,223 | 2025-04-02 |
 |    6 | ![缩略图](http://i1.hdslb.com/bfs/archive/bd075d84fe612fe8f274645e102468c278f8c3b9.jpg) | [林宇同居16集 林宇要打苏清雪打屁屁了](https://www.bilibili.com/video/BV1YTZvYMECW)                | 桃语漫剧        | 387.4万  | 513   | 2025-03-30 |
 |    7 | ![缩略图](http://i2.hdslb.com/bfs/archive/39d8e766723a603bc00c78bd4e82d5420743ff01.jpg) | [【Mujica/完结纪念Mad】心灵感应 :-sakiko](https://www.bilibili.com/video/BV1U7ZxYzEkC)      | 法國香菜        | 79.3万   | 353   | 2025-04-01 |
 |    8 | ![缩略图](http://i0.hdslb.com/bfs/archive/f903722abeb55e76dd01425758d720095bd6d54b.jpg) | [墨墨尊瞳](https://www.bilibili.com/video/BV1G1ofYiENJ)                               | 严小墨哦        | 723.0万  | 537   | 2025-03-29 |
@@ -43,7 +89,7 @@
 
 |   排名 | 缩略图                                                                                  | 标题                                                                                                                           | UP主          | 播放量    | 弹幕数   | 发布时间       |
 |-----:|:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-------------|:-------|:------|:-----------|
-|    1 | ![缩略图](http://i2.hdslb.com/bfs/archive/d4d7ae8a805b181957a80142678f74a836645956.jpg) | [2025全球最全电脑故障解决指南](https://www.bilibili.com/video/BV17WZ4YsEiX)                                                              | 喵喵折-好物清单     | 224.6万 | 3,627 | 2025-04-01 |
+|    1 | ![缩略图](http://i2.hdslb.com/bfs/archive/d4d7ae8a805b181957a80142678f74a836645956.jpg) | [2025全球最全电脑故障解决指南](https://www.bilibili.com/video/BV17WZ4YsEiX)                                                              | 喵喵折-好物清单     | 224.6万 | 3,634 | 2025-04-01 |
 |    2 | ![缩略图](http://i0.hdslb.com/bfs/archive/d8e45282430f6cf2d1ffa142189d9505a158bd7b.jpg) | [蒙德：高清重置](https://www.bilibili.com/video/BV1sGZbY6EoW)                                                                       | ferrari044   | 248.9万 | 2,008 | 2025-04-01 |
 |    3 | ![缩略图](http://i1.hdslb.com/bfs/archive/e3ca4a4c41d7b055690e6c1de6ab99a2e128b1d0.jpg) | [再见，Switch……](https://www.bilibili.com/video/BV11eZ8YLEZ6)                                                                   | 贪玩歌姬小宁子      | 117.6万 | 4,554 | 2025-04-01 |
 |    4 | ![缩略图](http://i1.hdslb.com/bfs/archive/87d5b12bc9c0e29133beb7e0ab1e924dc4f08c4a.jpg) | [我国首个脑机接口指导价发布，震惊世界科技和医学两界](https://www.bilibili.com/video/BV11PZsY8EtB)                                                     | 科技日常         | 147.5万 | 3.9万  | 2025-03-31 |
@@ -84,7 +130,7 @@
 |   12 | ![缩略图](http://i0.hdslb.com/bfs/archive/8528bf26d8f90776a402bbc1a6ca6448a061ec67.jpg) | [豆豆二选一你选哪一个呢？](https://www.bilibili.com/video/BV1gkRyYsEQK)                            | 蛋仔熊大           | 359.5万  | 79    | 2025-04-07 |
 |   13 | ![缩略图](http://i2.hdslb.com/bfs/archive/ec72e4d275375203f402ab4cf8699851a3cc2cc1.jpg) | [好好学吧小子！会变强的](https://www.bilibili.com/video/BV15CdnY8EGV)                             | 自然锦鲤_          | 379.8万  | 598   | 2025-04-08 |
 |   14 | ![缩略图](http://i2.hdslb.com/bfs/archive/3cb53f456d459b4d1ac56c0e5c85b515f3f9f4c0.jpg) | [非常“精彩”的一堂社会课](https://www.bilibili.com/video/BV1EgRiY5EtR)                            | 小猫影视CONECOFILM | 214.3万  | 1,573 | 2025-04-06 |
-|   15 | ![缩略图](http://i0.hdslb.com/bfs/archive/d80c118910442e34fd8f708dfa00633a42be39e9.jpg) | [第一集 当风靡全球的三角洲即将删档，所有人都在消耗哈夫币时你却坚持连续通宵跑刀](https://www.bilibili.com/video/BV1qJdcYLEjY) | 大坤动漫i          | 523.0万  | 176   | 2025-04-06 |
+|   15 | ![缩略图](http://i0.hdslb.com/bfs/archive/d80c118910442e34fd8f708dfa00633a42be39e9.jpg) | [第一集 当风靡全球的三角洲即将删档，所有人都在消耗哈夫币时你却坚持连续通宵跑刀](https://www.bilibili.com/video/BV1qJdcYLEjY) | 大坤动漫i          | 523.1万  | 176   | 2025-04-06 |
 |   16 | ![缩略图](http://i2.hdslb.com/bfs/archive/9444b3bdae11e502e1c774d9759bed4deae82925.jpg) | [哈哈，吃到披萨就过关，实在是太好吃啦](https://www.bilibili.com/video/BV1JRdcYnELW)                      | 蛋仔岛咚咚咩         | 341.7万  | 307   | 2025-04-06 |
 |   17 | ![缩略图](http://i0.hdslb.com/bfs/archive/5a72efc500ce88172043d00fa7516731250f840d.jpg) | [篮球形牛油炒火锅底料](https://www.bilibili.com/video/BV1ZndxYSE2B)                              | 周大签            | 1232.9万 | 1.4万  | 2025-04-08 |
 |   18 | ![缩略图](http://i1.hdslb.com/bfs/archive/db877ebd9595dcf4540404ed579638e99b78cf1c.jpg) | [我的青春回头看了我一眼](https://www.bilibili.com/video/BV1pDRBYREat)                             | awaxiaoyu      | 184.1万  | 664   | 2025-04-06 |
